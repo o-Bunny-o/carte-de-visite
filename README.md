@@ -9,3 +9,7 @@ Votre app doit :
 - Avoir une apparence impeccable sur mobile portrait (disons un écran de taille 460x800 pixels)
 - BONUS : Votre app fonctionne en mode paysage
 - BONUS : Votre app affiche une belle carte de visite sur un écran de grande taille (ordinateur de bureau)
+
+  ## Screenshots
+  ![image](https://github.com/user-attachments/assets/eed3693f-e729-4ac9-a909-1a2a2c76264f)
+
