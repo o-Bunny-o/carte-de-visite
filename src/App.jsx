@@ -1,11 +1,14 @@
+
+
+
 import React from 'react';
-import CarteDeVisite from './components/CarteDeVisite';
 import './App.css';
+import AppRouter from './AppRouter';
 
 function App() {
     return (
         <div className="App">
-            <CarteDeVisite />
+            <AppRouter />
         </div>
     );
 }

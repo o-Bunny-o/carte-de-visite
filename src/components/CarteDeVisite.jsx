@@ -3,6 +3,9 @@ import { FaEnvelope, FaPhone, FaLink } from 'react-icons/fa';
 import './CarteDeVisite.css';
 
 function CarteDeVisite() {
+    const openCadrantsInNewTab = () => {
+        window.open("/cadrants", "_blank");
+    };
     return (
         <div className="card-container">
             <div className="left-column">
@@ -25,7 +28,12 @@ function CarteDeVisite() {
                         <a href="https://pam-o-graphix.com/" target="_blank" rel="noopener noreferrer">
                             https://pam-o-graphix.com/
                         </a>
-                    </p>                </div>
+                    </p>
+                </div>
+
+                {/*boxy's button*/}
+                <button className="btn" onClick={openCadrantsInNewTab}> Boxys!
+                </button>
             </div>
         </div>
     );

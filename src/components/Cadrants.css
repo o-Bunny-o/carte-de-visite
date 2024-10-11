@@ -1,0 +1,62 @@
+.quadrants-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+column-gap: 16px;
+    row-gap: 16px;
+    height: 95vh;
+    background-color: #d35400;
+    justify-items: center;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.quadrant {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffb6c1;
+    border: 2px solid black;
+    width: 150px;
+    height: 45vh;
+    font-size: 1.5em;
+    color: white;
+}
+
+#q1 {
+    background-color: rgba(255, 87, 51, 0.5);
+}
+
+#q2 {
+    background-color: rgba(51, 195, 255, 0.5);
+}
+
+#q3 {
+    background-color: rgba(78, 255, 51, 0.5);
+}
+
+#q4 {
+    background-color: rgba(218, 51, 255, 0.5);
+}
+
+@media (min-width: 1024px) {
+    .quadrants-container {
+        min-width: 1000px;
+        height: 85vh;
+        justify-content: space-between;
+        align-items: center;
+        padding: 30px;
+
+    }
+
+    .quadrant {
+        display: flex;
+        background-color: #ffb6c1;
+        border: 2px solid black;
+        width: 70vh;
+        height: 42vh;
+        font-size: 1.5em;
+        color: white;
+    }
+}
