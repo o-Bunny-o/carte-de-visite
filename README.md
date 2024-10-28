@@ -30,10 +30,10 @@ En utilisant la manière de penser en composants, et les modules d’organisatio
 - Créez un ou des composants
 - Les composants peuvent accepter des props. Pensez modularité et simplicité.
 - Utilisez la grille CSS pour l'agencement :
-    -- Utilisez display: grid ou display: flex dans le composant parent pour organiser les quatre composants.
-    -- Assurez-vous que chaque quadrant occupe exactement 25% de l'espace total de l'écran.
-    -- Modifiez les fichier CSS que vous jugez pertinents.
+    - Utilisez display: grid ou display: flex dans le composant parent pour organiser les quatre composants.
+    - Assurez-vous que chaque quadrant occupe exactement 25% de l'espace total de l'écran.
+    - Modifiez les fichier CSS que vous jugez pertinents.
 - Ajoutez du style global :
-    -- Si nécessaire, créez un fichier CSS pour les styles globaux.
-    -- Si nécessaire, utilisez les classes CSS ou les styles en ligne pour appliquer une mise en page propre et sans marge.
+    - Si nécessaire, créez un fichier CSS pour les styles globaux.
+    - Si nécessaire, utilisez les classes CSS ou les styles en ligne pour appliquer une mise en page propre et sans marge.
 
