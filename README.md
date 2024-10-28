@@ -12,7 +12,7 @@ Votre app doit :
 - BONUS : Votre app fonctionne en mode paysage
 - BONUS : Votre app affiche une belle carte de visite sur un écran de grande taille (ordinateur de bureau)
   
-## Screenshots
+#### Screenshots
 - Desktop
   
   ![image](https://github.com/user-attachments/assets/0375c78b-22cd-4b5f-9d10-7c93ee92bfdf)
