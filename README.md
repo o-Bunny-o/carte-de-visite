@@ -21,7 +21,7 @@ Votre app doit :
 
   ![image](https://github.com/user-attachments/assets/422ec161-9ed2-4410-9720-b2ca0ae8059f)
 
-## Quadrants
+### Quadrants
 
 En utilisant la manière de penser en composants, et les modules d’organisation réactifs CSS (Flebox ou Grid). Reproduisez avec React, la app ci-jointe qui divise la fenêtre en quatre quadrants égaux.
 
@@ -37,7 +37,7 @@ En utilisant la manière de penser en composants, et les modules d’organisatio
     - Si nécessaire, créez un fichier CSS pour les styles globaux.
     - Si nécessaire, utilisez les classes CSS ou les styles en ligne pour appliquer une mise en page propre et sans marge.
  
-## Screenshots
+#### Screenshots
 - Desktop
   
   ![image](https://github.com/user-attachments/assets/a500001a-91db-435b-85b0-3be0b09e4cde)
@@ -46,4 +46,11 @@ En utilisant la manière de penser en composants, et les modules d’organisatio
 
   ![image](https://github.com/user-attachments/assets/12a54fd5-502c-45c4-984f-9619a6e9064d)
 
+## Commentaires
+
+J'ai décidé de fusionner les deux instances du laboratoire juste pour essayer. Et bien sûr, je me suis battu pour que tout s'ajuste correctement.
+
+La partie la plus difficile, je dirais, a été de me souvenir des composants à appeler, où et comment, car j'ai toujours un blocage pour commencer à coder. Je peux le lire, le comprendre et savoir déplacer les choses pour les faire fonctionner quand j'ai le code devant moi... recommencer à coder à partir de zéro reste un gros défi.
+
+J'ai aussi eu un combat avec flex car cela ne fonctionnait pas comme je le voulais, même après vérification du code, etc... donc, j'ai aussi joué avec Grid et ça s'est mieux passé.
 
