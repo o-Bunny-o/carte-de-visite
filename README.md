@@ -1,6 +1,6 @@
 # Carte de Visite et quadrants
 
-## Carte de Visite
+### Carte de Visite
 
 Votre but va être de créer une carte de visite virtuelle qui marche sur le navigateur Web d’un appareil mobile. Créez un nouveau projet Vite React, et nommez le « carte-de-visite ».
 Votre app doit :
