@@ -19,7 +19,7 @@ Votre app doit :
 
 - Mobile
 
-![image](https://github.com/user-attachments/assets/422ec161-9ed2-4410-9720-b2ca0ae8059f)
+  ![image](https://github.com/user-attachments/assets/422ec161-9ed2-4410-9720-b2ca0ae8059f)
 
 ## Quadrants
 
@@ -36,4 +36,14 @@ En utilisant la manière de penser en composants, et les modules d’organisatio
 - Ajoutez du style global :
     - Si nécessaire, créez un fichier CSS pour les styles globaux.
     - Si nécessaire, utilisez les classes CSS ou les styles en ligne pour appliquer une mise en page propre et sans marge.
+ 
+## Screenshots
+- Desktop
+  
+  ![image](https://github.com/user-attachments/assets/a500001a-91db-435b-85b0-3be0b09e4cde)
+
+- Mobile
+
+  ![image](https://github.com/user-attachments/assets/12a54fd5-502c-45c4-984f-9619a6e9064d)
+
 
